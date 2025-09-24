@@ -39,5 +39,4 @@ Essa arquitetura permite que a aplicação use o banco de dados mais adequado pa
 - pymongo (acesso MongoDB)
 - sqlite3 (nativo Python)
 - pandas (estrutura tabular)
-- pydeck (mapa interativo)
 - geopy (cálculo de distâncias)
