@@ -1,4 +1,5 @@
 **Explorador Web**
+
 **Grupo: Renan Aciole Alves Cunha, Gabriel Silva de Medeiros, Carlos Eduardo e Jailson Pereira**
 
 A arquitetura deste projeto segue uma abordagem de Persistência Poliglota, utilizando múltiplos modelos de banco de dados para atender a diferentes necessidades dentro da mesma aplicação. Essa arquitetura modular separa as responsabilidades, tornando o código mais limpo, escalável e fácil de manter.
@@ -26,3 +27,17 @@ A aplicação possui três funções principais, organizadas em abas:
 <img width="1568" height="773" alt="image" src="https://github.com/user-attachments/assets/67a9509d-ef9e-454f-948c-967bdb1b4edf" />
 
 Essa arquitetura permite que a aplicação use o banco de dados mais adequado para cada tipo de informação, tornando-o mais eficiente e robusto.
+
+**Ferramentas Utilizadas:**
+
+- Linguagem: Python
+- Framework Web: Streamlit
+- Banco Relacional: SQLite
+- Banco NoSQL: MongoDB
+
+**Bibliotecas:**
+- pymongo (acesso MongoDB)
+- sqlite3 (nativo Python)
+- pandas (estrutura tabular)
+- pydeck (mapa interativo)
+- geopy (cálculo de distâncias)
